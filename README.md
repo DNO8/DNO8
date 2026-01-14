@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola!<br>Soy Desarrollador Web<br>actualmente especializado en Frontend<br>con muchas ganas de aprender más de Backend y seguridad.<br>siempre intentando aprender las nuevas tecnologías y buenas practicas.<br>las tecnologias que he aplicado hasta ahora son Astro, Lit, Express, Tailwind CSS<br>mis bases son de HTML, CSS, JS.<br>mi mas reciente proyecto es la web de corretaje inmobiliario Anhouse Propiedades<br><br>
+Hola!<br>Soy Desarrollador Web<br>actualmente Full-Stack<br>Aplicando Principios de patrones de diseño.<br>siempre intentando aprender las nuevas tecnologías y buenas practicas.<br>las tecnologias que he aplicado hasta ahora son Next.js, Astro, Lit, Express, Tailwind CSS<br>mis bases son de HTML, CSS, JS, Java (POO)<br>mi mas reciente proyecto es la web de Colmena CrodwFunding una plataforma de financiamiento colectivo descentralizado con blockchain<br><br>
 
 
 ## 🌐 Socials:
