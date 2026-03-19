@@ -1,4 +1,4 @@
-# About Me:
+# Sobre mi:
 Soy Danilo Contreras, desarrollador Full Stack con formación como Analista Programador en INACAP.
 
 Me especializo en construir sistemas robustos y escalables desde los fundamentos, lo que me permite integrar tecnologías modernas sin comprometer rendimiento, mantenibilidad ni arquitectura.
@@ -11,7 +11,7 @@ Enfocado en transparencia, seguridad y propiedad de datos dentro del sistema de 
 
 ---
 
-# Featured Projects
+# Ultimos proyectos 
 
 ### HealthProof (Web3 / Backend / Blockchain)
 - Protocolo descentralizado para validación de datos médicos
