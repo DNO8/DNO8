@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola!<br>Soy Desarrollador Web<br>actualmente Full-Stack<br>Aplicando Principios de patrones de diseño.<br>siempre intentando aprender las nuevas tecnologías y buenas practicas.<br>las tecnologias que he aplicado hasta ahora son Next.js, Astro, Lit, Express, Tailwind CSS<br>mis bases son de HTML, CSS, JS, Java (POO)<br>mi mas reciente proyecto es la web de Colmena CrodwFunding una plataforma de financiamiento colectivo descentralizado con blockchain<br><br>
+Hola!<br>Soy Desarrollador Web<br>actualmente Full-Stack<br>Creyente de los patrones de diseño.<br>siempre intentando aprender las nuevas tecnologías y buenas practicas.<br>las tecnologias que he aplicado hasta ahora son Next.js, Astro, Lit, Express, Tailwind CSS<br>me he integrado en el ambiente web3 y he realizado proyectos en diferentes blockchains, como Ronin, Stellar, Avalanche<br>mi mas reciente proyecto es la web de HealthProof, un protocolo descentralizado para documentos médicos en la red de Avalanche<br><br>
 
 
 ## 🌐 Socials:
